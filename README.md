@@ -66,7 +66,9 @@ Below 35	Fail
 📋 Sample Output
 -------------------------------------------
      STUDENT PROGRESS TRACKER SYSTEM
+     
 -------------------------------------------
+
 ENTER YOUR NAME  : John
 ENTER YOUR CLASS : 10
 ENTER YOUR ROLL NUMBER : 23
