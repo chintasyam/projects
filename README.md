@@ -75,6 +75,8 @@ ENTER YOUR SUBJECT 1 MARKS : 78
 ENTER YOUR SUBJECT 2 MARKS : 65
 ENTER YOUR SUBJECT 3 MARKS : 88
 
+---------------------------------------
+
 📜 License
 
 This project is open-source and free to use for educational purposes.
